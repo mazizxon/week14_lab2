@@ -2,7 +2,7 @@
 using namespace std;
 
 void throwException() {
-    throw "Exception thrown!";
+    throw "Error!";
 }
 
 int main() {
